@@ -1,0 +1,15 @@
+{
+	"dataset_name": "ESC",
+	"data_dir": "/workspace/esc_datasets/",
+	"dataaug": true,
+	"pretrained": false,
+	"scheduler": true,
+	"model": "resnet",
+	"batch_size": 32,
+	"num_workers": 8,
+	"epochs": 100,
+	"lr": 1e-4,
+	   "weight_decay": 1e-3,
+	   "num_folds": 5,
+	   "checkpoint_dir": "/workspace/esc_checkpoint_dir"
+   }

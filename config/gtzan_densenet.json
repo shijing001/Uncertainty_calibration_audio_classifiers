@@ -1,0 +1,16 @@
+{
+	"dataset_name": "GTZAN",
+	"data_dir": "/workspace/gtzan_datasets/",
+	"dataaug": true,
+	"pretrained": false,
+	"scheduler": true,
+	"model": "inceptionsn",
+	"batch_size": 32,
+	"num_workers": 8,
+	"epochs": 100,
+	"lr": 1e-4,
+	   "weight_decay": 1e-3,
+	   "num_folds": 5,
+	   "checkpoint_dir": "/workspace/gtzan_checkpoint_dir"
+   }
+   
