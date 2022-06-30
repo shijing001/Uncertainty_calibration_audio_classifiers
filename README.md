@@ -37,6 +37,6 @@ python train_with_sngp.py --config_path /config/your_config.json
 
 ### References
 1. Our paper accepted by InerSpeech 2022, now available on ArXiv.com, https://arxiv.org/abs/2206.13071
-2.https://github.com/kimjeyoung/SNGP-BERT-Pytorch
-3.https://github.com/kamalesh0406/Audio-Classification
-4.Rethinking CNN Models for Audio Classification. (https://arxiv.org/abs/2007.11154)
+2. https://github.com/kimjeyoung/SNGP-BERT-Pytorch
+3. https://github.com/kamalesh0406/Audio-Classification
+4. Rethinking CNN Models for Audio Classification. (https://arxiv.org/abs/2007.11154)
