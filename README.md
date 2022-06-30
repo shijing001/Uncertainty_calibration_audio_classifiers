@@ -1,6 +1,6 @@
 # Uncertainty Calibration for Deep Audio Classifiers
 
-This repository contains the PyTorch code for our paper [Uncertainty Calibration for Deep Audio Classifiers] accepted in INTERSPEECH2022. The experiments are conducted on the following two datasets which can be downloaded from the links provided:
+This repository contains the PyTorch code for our paper [Uncertainty Calibration for Deep Audio Classifiers] accepted by INTERSPEECH2022. The experiments are conducted on the following two datasets which can be downloaded from the links provided:
 1. [ESC-50](https://github.com/karolpiczak/ESC-50)
 2. [GTZAN](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification)
 
@@ -36,6 +36,7 @@ python train_with_sngp.py --config_path /config/your_config.json
 ```
 
 ### References
-1.https://github.com/kimjeyoung/SNGP-BERT-Pytorch
-2.https://github.com/kamalesh0406/Audio-Classification
-3.Rethinking CNN Models for Audio Classification. (https://arxiv.org/abs/2007.11154)
+1. Our paper accepted by InerSpeech 2022, now available on ArXiv.com, https://arxiv.org/abs/2206.13071
+2.https://github.com/kimjeyoung/SNGP-BERT-Pytorch
+3.https://github.com/kamalesh0406/Audio-Classification
+4.Rethinking CNN Models for Audio Classification. (https://arxiv.org/abs/2007.11154)
